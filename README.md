@@ -1,5 +1,3 @@
-可以这样写，简洁、中性，不暴露论文信息：
-
 | File | Description |
 | `RawData.xlsx` | Input dataset containing grain yield, vegetation indices, and NRCT across six wheat growth stages. |
 | `Full_workflow.R` | R script for running the full modeling workflow, including GRA-based feature ranking, feature selection, ENR modeling, and fusion-model evaluation. |
